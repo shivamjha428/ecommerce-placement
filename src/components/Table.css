@@ -1,0 +1,11 @@
+img{
+    height: 10vh;
+    width: 10vh;
+    margin: 2vh;
+}
+.d1{
+    margin-right: 5vh;
+}
+.items{
+    display: inline-block;
+}
